@@ -17,6 +17,13 @@
     bottom: 45px;
     z-index: 99;
 }
+.download-btn {
+    position: fixed; 
+    bottom: 30px;     
+    right: 40px;      
+    z-index: 1000;   
+    border-radius: 50%; 
+}
 
 
 /*** Spinner ***/
